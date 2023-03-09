@@ -23,3 +23,7 @@ Are you tired of manually saving the stunning images from your Windows lock scre
 In order to run PowerShell scripts, you'll need to edit your execution policy. By default, your policy will be "Restricted," so you'll need to change it to "RemoteSigned." To check your execution policy, run `Get-ExecutionPolicy`. To change it, run `Set-ExecutionPolicy RemoteSigned`.
 
 Now sit back, relax, and let the script do the hard work for you. No more manually saving your backgrounds and missing out on new images. Enjoy your beautiful Windows Spotlight backgrounds with ease!
+
+<img src="https://user-images.githubusercontent.com/92261832/224076723-0bd968b1-cf01-4686-83e1-0737ab312b59.jpg" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/92261832/224076865-1b27acd0-aff1-469e-894a-6b1b098eac86.jpg" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/92261832/224077061-8c18a138-a59f-42d0-9900-6dcc8d253f64.jpg" width=30% height=30%>
